@@ -1,4 +1,4 @@
-<img width="778" alt="12f9079164794f9c" src="https://github.com/user-attachments/assets/4940a21a-9809-4e63-844d-24d9e88b49d5"># ADGD_URFU_1
+#ADGD_URFU_1
 Workshop #1
 
 # АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
