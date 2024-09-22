@@ -1,4 +1,4 @@
-#ADGD_URFU_1
+# ADGD_URFU_1
 Workshop #1
 
 # АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
